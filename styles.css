@@ -1,0 +1,24 @@
+/* 
+    CSS Document
+    This stylesheet sets the background color of the page to violet,
+    and styles the h1 element with blue color.
+*/
+
+/* Set the background color of the page to violet */
+body {
+    background-color: violet;
+}
+
+/* Style the h1 element with blue color */
+h1 {
+    color: blue;
+}
+
+/* 
+    Change background color to blueviolet and font color to white 
+    when hovering over the h1 element
+*/
+h1:hover {
+    background-color: blueviolet;
+    color: white;
+}
